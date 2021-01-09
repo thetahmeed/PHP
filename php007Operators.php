@@ -46,4 +46,10 @@ echo $x + $y;
 // ||	Or	$x || $y	True if either $x or $y is true	
 // !	Not	!$x	True if $x is not true
 
+// PHP String Operators
+// .	Concatenation	$txt1 . $txt2	Concatenation of $txt1 and $txt2	
+// .=	Concatenation assignment	$txt1 .= $txt2	Appends $txt2 to $txt1	
+
+
+
 ?>
