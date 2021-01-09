@@ -38,6 +38,12 @@ echo $x + $y;
 // --$x	Pre-decrement	Decrements $x by one, then returns $x	
 // $x--	Post-decrement	Returns $x, then decrements $x by one
 
-
+// PHP Logical Operators
+// and	And	$x and $y	True if both $x and $y are true	
+// or	Or	$x or $y	True if either $x or $y is true	
+// xor	Xor	$x xor $y	True if either $x or $y is true, but not both	
+// &&	And	$x && $y	True if both $x and $y are true	
+// ||	Or	$x || $y	True if either $x or $y is true	
+// !	Not	!$x	True if $x is not true
 
 ?>
