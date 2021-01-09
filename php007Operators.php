@@ -32,6 +32,12 @@ echo $x + $y;
 // <=	Less than or equal to	$x <= $y	Returns true if $x is less than or equal to $y	
 // <=>	Spaceship	$x <=> $y	Returns an integer less than, equal to, or greater than zero, depending on if $x is less than, equal to, or greater than $y. Introduced in PHP 7.
 
+// PHP Increment / Decrement Operators
+// ++$x	Pre-increment	Increments $x by one, then returns $x	
+// $x++	Post-increment	Returns $x, then increments $x by one	
+// --$x	Pre-decrement	Decrements $x by one, then returns $x	
+// $x--	Post-decrement	Returns $x, then decrements $x by one
+
 
 
 ?>
