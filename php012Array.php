@@ -35,6 +35,7 @@ echo $cars[2][0].": In stock: ".$cars[2][1].", sold: ".$cars[2][2].".<br>";
 echo $cars[3][0].": In stock: ".$cars[3][1].", sold: ".$cars[3][2].".<br>";
 
 //sorting asort() - sort arrays in ascending order
+
 // rsort() - sort arrays in descending order
 // asort() - sort associative arrays in ascending order, according to the value
 // ksort() - sort associative arrays in ascending order, according to the key
