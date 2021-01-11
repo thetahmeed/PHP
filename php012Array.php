@@ -17,4 +17,8 @@ for($x = 0; $x < $arrlength; $x++) {
   echo "<br>";
 }
 
+// we can use text instate of index number
+$age = array("Peter"=>"35", "Ben"=>"37", "Joe"=>"43");
+echo "Peter is " . $age['Peter'] . " years old.";
+
 ?>
