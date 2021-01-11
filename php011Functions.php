@@ -6,7 +6,6 @@ function writeMsg() {
 
 writeMsg(); // call the function
 
-
 // function with arguments
 function familyName($fname, $year) {
   echo "$fname Refsnes. Born in $year <br>";
